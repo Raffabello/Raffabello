@@ -5,7 +5,7 @@ I like GUI programming, I started long time ago with Visual Basic, but then I so
 I like game development, I would be pleased to be part of it someday.<br/>
 
 Finally, on top of everything I like to develop applications that help Engineers do their work, particularly the Aeronautical field.<br/>
-And I have an uncanny interest in developing Operating Systems.</br>
+And I have an uncanny interest in OS development.</br>
 
 Why I use github? For professional purposes, as a track of my portfolio, help students, and to just have a deposit of the creations I do in my free time.<br/>
 My strong skills are:<br/>
