@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @Raffabello
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Greetings,
 
-<!---
-Raffabello/Raffabello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am @Raffabello, I hold a Bachelor Degree in Aerospace Engineering, and a High School Diploma in Computer technology, Network and Database Management.
+Currently I am working as IT Infrastructure Engineer for a Cloud Tech Company.
+I have great enthusiasm for programming languages, I love backend development the most.
+Employing programming skills to solve engineering problems has been my passion since I made my first step at High School.
+I invest most of my free time in learning how to improve and make my programs more efficient, creating new projects that can aid people life.
+
+Strong interest in:
+- OS Development
+- Game Development
+- Engineering/Physics Research
+- Unix Distro (I have used FreeBSD, NetBSD, and Ubuntu)
+
+I actively learn and code in:
+* C
+* C++
+* JavaScript
