@@ -14,6 +14,10 @@ Strong interest in:
 - Unix Distro (I have used FreeBSD, NetBSD, and Ubuntu)
 
 I actively learn and code in:
-* C
-* C++
+* C (Actively)
+* C++ (Actively)
 * JavaScript
+  * Node JS (Actively)
+  * Express JS (Planning)
+  * React JS (Planning)
+
