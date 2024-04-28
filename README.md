@@ -13,7 +13,7 @@ Strong interest in:
 - Engineering/Physics Research
 - Unix Distro (I have used FreeBSD, NetBSD, and Ubuntu)
 
-I actively learn and code in:
+I am actively learning and coding in:
 * C (Actively)
 * C++ (Actively)
 * JavaScript
