@@ -22,9 +22,9 @@ I am actively learning and coding in:
 * PostgreSQL(Actively)
 
 I can code in:
-*C
-*C++
-*HTML/CSS
-*Javascript
-*Node JS
-*Python
+* C
+* C++
+* HTML/CSS
+* Javascript
+* Node JS
+* Python
