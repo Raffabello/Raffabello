@@ -20,3 +20,11 @@ I actively learn and code in:
   * Node JS (Actively)
   * React JS (Planning)
 * PostgreSQL(Actively)
+
+I can code in:
+*C
+*C++
+*HTML/CSS
+*Javascript
+*Node JS
+*Python
