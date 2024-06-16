@@ -18,6 +18,9 @@ I am actively learning and coding in:
 * C++ (Actively)
 * JavaScript
   * Node JS (Actively)
+  * jQuery (Actively)
+  * TypeScript (Actively)
+  * Vue JS (Planning)
   * React JS (Planning)
 * PostgreSQL(Actively)
 
