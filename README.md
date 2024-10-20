@@ -16,11 +16,12 @@ Strong interest in:
 I am actively learning and coding in:
 * C (Actively)
 * C++ (Actively)
+* C# (Planning)
 * JavaScript
   * Node JS (Actively)
   * jQuery (Actively)
-  * TypeScript (Actively)
-  * Vue JS (Planning)
+  * TypeScript (On hold)
+  * Vue JS (Actively)
   * React JS (Planning)
 * PostgreSQL(Actively)
 
