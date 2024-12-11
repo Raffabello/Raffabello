@@ -22,7 +22,7 @@ I am actively learning and coding in:
   * jQuery (Actively)
   * TypeScript (On hold)
   * Vue JS (Actively)
-  * React JS (Planning)
+  * Angular (Planning)
 * PostgreSQL(Actively)
 
 I can code in:
