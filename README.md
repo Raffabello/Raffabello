@@ -1,34 +1,9 @@
-Greetings,
+<i>Hey there! I am Raffabello😎</i>
 
-I am @Raffabello, I hold a Bachelor Degree in Aerospace Engineering, and a High School Diploma in Computer technology, Network and Database Management.
-Currently I am working as an IT Infrastructure Engineer for a Cloud Tech Company.
-I have great enthusiasm for programming languages, I love backend development the most.
-Employing programming skills to solve engineering problems has been my passion since I made my first step in High School.
-I invest most of my free time in learning how to improve and make my programs more efficient, creating new projects that can help other people busy lives.
-One of my peculiarity as a developer is to code applications that are as user friendly as possible.
+<h4>Who am I?</h4><i>An Aerospace Engineer ✈️ disguised as a Sofware Engineer with various years of experience in both back-end and front-end development.</i>
 
-Strong interest in:
-- OS Development
-- Game Development
-- Engineering/Physics Research
-- Unix Distro (I have used FreeBSD, NetBSD, and Ubuntu)
+<h4>What do I like to develop?</h4><i>Websites, Web applications, RESTful API, Databases, Games, and anything that aids engineers to get the work done as quickly as possible.</i>
 
-I am actively learning and coding in:
-* C (Actively)
-* C++ (Actively)
-* C# (Planning)
-* JavaScript
-  * Node JS (Actively)
-  * jQuery (Actively)
-  * TypeScript (On hold)
-  * Vue JS (Actively)
-  * Angular (Planning)
-* PostgreSQL(Actively)
-
-I can code in:
-* C
-* C++
-* HTML/CSS
-* Javascript
-* Node JS
-* Python
+<h4>What is my tech stack & frameworks?</h4><i>My current tech stack is <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b>, <b>C</b>, <b>C++</b>, <b>Python</b>, and <b>PostgreSQL</b></i><br/>
+<i>I work with JavaScript the most, and you can find me working in <b>VueJS</b>, <b>NodeJS</b>, <b>Jest</b>, and <b>Angular</b>. 
+I love to move back and forth from back-end to front-end, I don't like to stick to just one side, I love taking walks back and forth 😜</i> 
