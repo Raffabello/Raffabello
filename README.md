@@ -1,10 +1,24 @@
-<i>Hey there! I am Raffabello😎</i>
+<i>Hi! I am Raffabello!</i>
 
-<h4>Who am I?</h4><i>An Aerospace Engineer ✈️ disguised as a Sofware Engineer with various years of experience in both back-end and front-end development.</i>
+I work as a Full Stack Software Engineer, graduated in Aerospace Engineering.<br/>
+I love creating new projects and bring them to life.<br/>
+<h2>My Tech Stack</h2>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"></td>
+    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"></td>
+    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"></td>
+    <td><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" alt="Svelte"></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"></td>
+    <td><img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" alt="AngularJS"></td>
+    <td><img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"></td>
+    <td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"></td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"></td>
+  </tr>
+</table>
 
-<h4>What do I like to develop?</h4><i>Websites, Web applications, RESTful API, Databases, Games, and anything that aids engineers to get the work done as quickly as possible.</i>
 
-<h4>What is my tech stack & frameworks?</h4><i>My current tech stack is <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b>, <b>C</b>, <b>C++</b>, <b>Python</b>, <b>PostgreSQL</b>,and <b>Apache</b></i><br/>
-<i>I work with JavaScript the most, and you can find me working in <b>VueJS</b>, <b>NodeJS</b>, <b>Jest</b>, and <b>Angular</b>. Of course <b>Git</b> and <b>Mercurial</b> friendly, you are a source code criminal if you don't know these two!😜
-  
-I love to move back and forth from back-end to front-end, I don't like to stick to just one side, I love taking walks back and forth 🔁</i> 
+This is my official github account where you can find all the repositories about projects I thought, created and developed.
